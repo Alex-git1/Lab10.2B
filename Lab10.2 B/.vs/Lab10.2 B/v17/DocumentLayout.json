@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A3363C-569B-4D99-8BFA-562FE02C8B3E}|Lab10.2 B\\Lab10.2 B.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\Lab10.2 B\\Lab10.2B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07A3363C-569B-4D99-8BFA-562FE02C8B3E}|Lab10.2 B\\Lab10.2 B.vcxproj|solutionrelative:Lab10.2 B\\Lab10.2B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB46560-0F05-41AF-8337-2A9E3CE188A8}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AB46560-0F05-41AF-8337-2A9E3CE188A8}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T15:54:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab10.2B.cpp",
+              "DocumentMoniker": "C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\Lab10.2 B\\Lab10.2B.cpp",
+              "RelativeDocumentMoniker": "Lab10.2 B\\Lab10.2B.cpp",
+              "ToolTip": "C:\\Users\\Note\\Desktop\\AP\\Lab10.2 B\\Lab10.2 B\\Lab10.2 B\\Lab10.2B.cpp",
+              "RelativeToolTip": "Lab10.2 B\\Lab10.2B.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T14:43:48.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
